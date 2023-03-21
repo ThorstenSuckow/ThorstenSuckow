@@ -4,7 +4,7 @@
 ### I see [Software Development as craftsmanship](https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship/).
 
 The focus of my work is on Design and Agile Development of Software.
-I favor Object Oriented languages. I do have a soft spot vor JavaScript.
+I favor Object Oriented languages. I do have a soft spot for JavaScript.
 
 In recent years I had the chance to accompany teams of different sizes in workshops and training sessions on software development. The lessons I have learned through this are among the most valuable in my life.
 
@@ -15,7 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 week ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (1 week ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 week ago)
