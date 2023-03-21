@@ -4,7 +4,7 @@
 ### I see [Software Development as craftsmanship](https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship/).
 
 The focus of my work is on Design and Agile Development of Software.
-I favor Object Oriented languages. I do have a soft spot vor JavaScript.
+I favor Object Oriented languages. I do have a soft spot for JavaScript.
 
 In recent years I had the chance to accompany teams of different sizes in workshops and training sessions on software development. The lessons I have learned through this are among the most valuable in my life.
 
