@@ -15,7 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 week ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (1 week ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 week ago)
@@ -42,7 +42,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (2 days ago)
+- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (3 days ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (1 month ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (4 months ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (8 months ago)
