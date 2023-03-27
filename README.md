@@ -15,12 +15,12 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 week ago)
-- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (1 week ago)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 week ago)
+- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (2 weeks ago)
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (2 weeks ago)
 - [l8js/l8](https://github.com/l8js/l8) - Functional, lightweight ES6&#43; JavaScript library. (2 weeks ago)
-- [coon-js/extjs-ctrl-simmanager](https://github.com/coon-js/extjs-ctrl-simmanager) - Sencha ExtJS Package for Simlet behavior. (2 weeks ago)
+- [coon-js/extjs-ctrl-simmanager](https://github.com/coon-js/extjs-ctrl-simmanager) - Sencha ExtJS Package for Simlet behavior. (3 weeks ago)
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (4 weeks ago)
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) - Dev package for mocking backend requests and data for conjoon/app-cn_mail (4 weeks ago)
 - [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (1 month ago)
@@ -29,9 +29,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.2.16](https://github.com/neomjs/neo/releases/tag/5.2.16), 3 days ago) - The application worker driven frontend framework
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 1 week ago) - JavaScript email client. 
-- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 week ago) - Create conjoon apps easily.
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.2.16](https://github.com/neomjs/neo/releases/tag/5.2.16), 4 days ago) - The application worker driven frontend framework
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 2 weeks ago) - JavaScript email client. 
+- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 2 weeks ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 2 weeks ago) - Functional, lightweight ES6&#43; JavaScript library.
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.0.16](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.0.16), 4 weeks ago) - Email-client package.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 4 weeks ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
@@ -42,7 +42,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (6 days ago)
+- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 week ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (1 month ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (4 months ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (8 months ago)
