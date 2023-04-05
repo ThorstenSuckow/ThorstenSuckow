@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.3.15](https://github.com/neomjs/neo/releases/tag/5.3.15), today) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.3.16](https://github.com/neomjs/neo/releases/tag/5.3.16), today) - The application worker driven frontend framework
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 3 weeks ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 3 weeks ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 4 weeks ago) - Functional, lightweight ES6&#43; JavaScript library.
