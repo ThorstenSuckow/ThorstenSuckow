@@ -15,20 +15,21 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (today)
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (1 day ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
 - [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (3 days ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (1 week ago)
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (1 week ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (3 weeks ago)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (3 weeks ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (3 weeks ago)
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (3 weeks ago)
 - [l8js/l8](https://github.com/l8js/l8) - Functional, lightweight ES6&#43; JavaScript library. (4 weeks ago)
-- [coon-js/extjs-ctrl-simmanager](https://github.com/coon-js/extjs-ctrl-simmanager) - Sencha ExtJS Package for Simlet behavior. (1 month ago)
 
 
 ## Recent Releases
 
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), today) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [neomjs/neo](https://github.com/neomjs/neo) ([5.3.17](https://github.com/neomjs/neo/releases/tag/5.3.17), 1 day ago) - The application worker driven frontend framework
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 3 weeks ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 3 weeks ago) - Create conjoon apps easily.
@@ -38,7 +39,6 @@ I am grateful that I get to do what I love every day.
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 1 month ago) - A backend service for IMAP/SMTP email messaging.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.1](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.1), 1 month ago) - PHP library for IMAP operations
 - [conjoon/extjs-app-imapuser](https://github.com/conjoon/extjs-app-imapuser) ([v1.0.2](https://github.com/conjoon/extjs-app-imapuser/releases/tag/v1.0.2), 1 month ago) - conjoon application module for providing user authentication against an imap server.
-- [coon-js/extjs-lib-comp](https://github.com/coon-js/extjs-lib-comp) ([v1.0.1](https://github.com/coon-js/extjs-lib-comp/releases/tag/v1.0.1), 1 month ago) - A collection of extended core view functionality to be used in Sencha ExtJS applications. Home of the Livegrid-plugin for dynamically adding/removing data from a Grid bound to a BufferedStore.
 
 ## Musings and general ideas
 
