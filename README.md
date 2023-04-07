@@ -15,25 +15,25 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (today)
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (1 day ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
-- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (3 days ago)
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (1 day ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (2 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 days ago)
+- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (4 days ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (1 week ago)
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (1 week ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (3 weeks ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (3 weeks ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (3 weeks ago)
-- [l8js/l8](https://github.com/l8js/l8) - Functional, lightweight ES6&#43; JavaScript library. (4 weeks ago)
+- [l8js/l8](https://github.com/l8js/l8) - Functional, lightweight ES6&#43; JavaScript library. (1 month ago)
 
 
 ## Recent Releases
 
-- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), today) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.3.17](https://github.com/neomjs/neo/releases/tag/5.3.17), 1 day ago) - The application worker driven frontend framework
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 1 day ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.3.17](https://github.com/neomjs/neo/releases/tag/5.3.17), 2 days ago) - The application worker driven frontend framework
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 3 weeks ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 3 weeks ago) - Create conjoon apps easily.
-- [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 4 weeks ago) - Functional, lightweight ES6&#43; JavaScript library.
+- [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 1 month ago) - Functional, lightweight ES6&#43; JavaScript library.
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.0.16](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.0.16), 1 month ago) - Email-client package.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 1 month ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 1 month ago) - A backend service for IMAP/SMTP email messaging.
