@@ -29,8 +29,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.0](https://github.com/neomjs/neo/releases/tag/5.4.0), today) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 5 days ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.3.17](https://github.com/neomjs/neo/releases/tag/5.3.17), 6 days ago) - The application worker driven frontend framework
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 4 weeks ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 4 weeks ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 1 month ago) - Functional, lightweight ES6&#43; JavaScript library.
