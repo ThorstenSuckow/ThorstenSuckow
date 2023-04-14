@@ -15,8 +15,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (2 days ago)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (1 week ago)
 - [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (1 week ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (2 weeks ago)
@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.4](https://github.com/neomjs/neo/releases/tag/5.4.4), today) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.4](https://github.com/neomjs/neo/releases/tag/5.4.4), 1 day ago) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 1 week ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 1 month ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 month ago) - Create conjoon apps easily.
