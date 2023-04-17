@@ -15,10 +15,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (4 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (5 days ago)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (1 week ago)
-- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (1 week ago)
+- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (2 weeks ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (2 weeks ago)
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (2 weeks ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 month ago)
@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.5](https://github.com/neomjs/neo/releases/tag/5.4.5), 2 days ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.5](https://github.com/neomjs/neo/releases/tag/5.4.5), 3 days ago) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 1 week ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.1.0](https://github.com/conjoon/conjoon/releases/tag/v1.1.0), 1 month ago) - JavaScript email client. 
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 month ago) - Create conjoon apps easily.
@@ -42,8 +42,8 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [Does a Big Ball of Mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (2 days ago)
-- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (3 weeks ago)
+- [Does a Big Ball of Mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (3 days ago)
+- [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (4 weeks ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (1 month ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (5 months ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (9 months ago)
