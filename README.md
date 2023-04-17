@@ -15,7 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (5 days ago)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (1 week ago)
 - [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (2 weeks ago)
@@ -42,7 +42,8 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [Does a Big Ball of Mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (3 days ago)
+- [🇩🇪 Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (3 days ago)
+- [Can a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (3 days ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (4 weeks ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (1 month ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (5 months ago)
