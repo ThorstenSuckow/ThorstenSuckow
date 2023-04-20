@@ -15,6 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (today)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (today)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (2 weeks ago)
@@ -23,7 +24,6 @@ I am grateful that I get to do what I love every day.
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (3 weeks ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 month ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (1 month ago)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 month ago)
 - [l8js/l8](https://github.com/l8js/l8) - Functional, lightweight ES6&#43; JavaScript library. (1 month ago)
 
 
