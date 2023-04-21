@@ -29,6 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), today) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 1 day ago) - JavaScript email client. 
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), 1 day ago) - Email-client package.
 - [neomjs/neo](https://github.com/neomjs/neo) ([5.4.9](https://github.com/neomjs/neo/releases/tag/5.4.9), 2 days ago) - The application worker driven frontend framework
@@ -38,7 +39,6 @@ I am grateful that I get to do what I love every day.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 1 month ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 1 month ago) - A backend service for IMAP/SMTP email messaging.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.1](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.1), 1 month ago) - PHP library for IMAP operations
-- [conjoon/extjs-app-imapuser](https://github.com/conjoon/extjs-app-imapuser) ([v1.0.2](https://github.com/conjoon/extjs-app-imapuser/releases/tag/v1.0.2), 2 months ago) - conjoon application module for providing user authentication against an imap server.
 
 ## Musings and general ideas
 
