@@ -15,9 +15,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (today)
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (1 day ago)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (2 weeks ago)
 - [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (2 weeks ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (3 weeks ago)
@@ -29,9 +29,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), today) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), today) - Email-client package.
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.9](https://github.com/neomjs/neo/releases/tag/5.4.9), 1 day ago) - The application worker driven frontend framework
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 1 day ago) - JavaScript email client. 
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), 1 day ago) - Email-client package.
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.9](https://github.com/neomjs/neo/releases/tag/5.4.9), 2 days ago) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 2 weeks ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 month ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 1 month ago) - Functional, lightweight ES6&#43; JavaScript library.
@@ -42,8 +42,8 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (6 days ago)
-- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (6 days ago)
+- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (1 week ago)
+- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (1 week ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 month ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (2 months ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (5 months ago)
