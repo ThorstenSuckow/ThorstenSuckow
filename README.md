@@ -15,12 +15,12 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (3 days ago)
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (3 days ago)
+- [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (4 days ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (4 days ago)
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (2 weeks ago)
-- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (2 weeks ago)
+- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (3 weeks ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (3 weeks ago)
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (3 weeks ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 month ago)
@@ -29,10 +29,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 2 days ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 3 days ago) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), 3 days ago) - Email-client package.
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.9](https://github.com/neomjs/neo/releases/tag/5.4.9), 4 days ago) - The application worker driven frontend framework
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 3 days ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 4 days ago) - JavaScript email client. 
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), 4 days ago) - Email-client package.
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.4.9](https://github.com/neomjs/neo/releases/tag/5.4.9), 5 days ago) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.0](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.0), 2 weeks ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 month ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 1 month ago) - Functional, lightweight ES6&#43; JavaScript library.
