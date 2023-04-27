@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.5.0](https://github.com/neomjs/neo/releases/tag/5.5.0), 1 day ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.5.1](https://github.com/neomjs/neo/releases/tag/5.5.1), today) - The application worker driven frontend framework
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 6 days ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 1 week ago) - JavaScript email client. 
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.0), 1 week ago) - Email-client package.
