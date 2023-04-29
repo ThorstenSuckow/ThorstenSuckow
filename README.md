@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.5.6](https://github.com/neomjs/neo/releases/tag/5.5.6), 1 day ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.5.8](https://github.com/neomjs/neo/releases/tag/5.5.8), today) - The application worker driven frontend framework
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 2 days ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 1 week ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.0](https://github.com/conjoon/conjoon/releases/tag/v1.2.0), 1 week ago) - JavaScript email client. 
