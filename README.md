@@ -15,13 +15,13 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (today)
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (today)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (2 days ago)
-- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (5 days ago)
-- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (4 weeks ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (1 day ago)
+- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 day ago)
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (3 days ago)
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore. (6 days ago)
+- [ThorstenSuckow/di-js](https://github.com/ThorstenSuckow/di-js) - Constructor based dependency injection in JavaScript. (1 month ago)
 - [ThorstenSuckow/angular-heroes](https://github.com/ThorstenSuckow/angular-heroes) -  (1 month ago)
 - [ThorstenSuckow/angular-product](https://github.com/ThorstenSuckow/angular-product) - Created with StackBlitz ⚡️ (1 month ago)
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) - Create conjoon apps easily. (1 month ago)
@@ -29,11 +29,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.6.0](https://github.com/neomjs/neo/releases/tag/5.6.0), today) - The application worker driven frontend framework
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), today) - The official home page of conjoon.
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), today) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), today) - Email-client package.
-- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 5 days ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.6.0](https://github.com/neomjs/neo/releases/tag/5.6.0), 1 day ago) - The application worker driven frontend framework
+- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 1 day ago) - The official home page of conjoon.
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 1 day ago) - JavaScript email client. 
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 1 day ago) - Email-client package.
+- [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 6 days ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 1 week ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 1 month ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 1 month ago) - Functional, lightweight ES6&#43; JavaScript library.
@@ -42,7 +42,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 day ago)
+- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (2 days ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (2 weeks ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (2 weeks ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 month ago)
@@ -51,4 +51,4 @@ I am grateful that I get to do what I love every day.
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (9 months ago)
 - [JavaScript, function-as-object and the internet](https://thorsten.suckow-homberg.de/blog/2022/06/14/javascript-function-as-object-and-the-internet) (10 months ago)
 - [conjoon installer updates](https://thorsten.suckow-homberg.de/blog/2022/06/08/conjoon-installer-updates) (10 months ago)
-- [Releasing conjoon 1.0.0-beta.0](https://thorsten.suckow-homberg.de/blog/2022/06/07/releasing-conjoon-1-0-0-beta) (10 months ago)
+- [Releasing conjoon 1.0.0-beta.0](https://thorsten.suckow-homberg.de/blog/2022/06/07/releasing-conjoon-1-0-0-beta) (11 months ago)
