@@ -15,10 +15,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (today)
-- [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the documentation of the quant library. (1 day ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (1 day ago)
-- [quant-php/.github](https://github.com/quant-php/.github) -  (2 days ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (1 day ago)
+- [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the documentation of the quant library. (2 days ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (2 days ago)
+- [quant-php/.github](https://github.com/quant-php/.github) -  (3 days ago)
 - [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (1 week ago)
@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.7.6](https://github.com/neomjs/neo/releases/tag/5.7.6), 2 days ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.7.6](https://github.com/neomjs/neo/releases/tag/5.7.6), 3 days ago) - The application worker driven frontend framework
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 1 week ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 1 week ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 1 week ago) - JavaScript email client. 
@@ -42,12 +42,12 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 week ago)
+- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (2 weeks ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (1 month ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (1 month ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 month ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (2 months ago)
-- [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (5 months ago)
+- [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (6 months ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (10 months ago)
 - [JavaScript, function-as-object and the internet](https://thorsten.suckow-homberg.de/blog/2022/06/14/javascript-function-as-object-and-the-internet) (11 months ago)
 - [conjoon installer updates](https://thorsten.suckow-homberg.de/blog/2022/06/08/conjoon-installer-updates) (11 months ago)
