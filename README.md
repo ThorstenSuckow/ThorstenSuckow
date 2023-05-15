@@ -15,8 +15,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) -  (today)
-- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (1 day ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (today)
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (today)
 - [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (2 days ago)
 - [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the documentation of the quant library. (2 days ago)
 - [quant-php/.github](https://github.com/quant-php/.github) -  (3 days ago)
