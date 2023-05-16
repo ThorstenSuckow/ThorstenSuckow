@@ -15,8 +15,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (today)
 - [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (1 day ago)
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (1 day ago)
 - [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (3 days ago)
 - [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the documentation of the quant library. (3 days ago)
 - [quant-php/.github](https://github.com/quant-php/.github) -  (4 days ago)
@@ -24,12 +24,12 @@ I am grateful that I get to do what I love every day.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (1 week ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (2 weeks ago)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (2 weeks ago)
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) - Email-client package. (2 weeks ago)
 
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.8.0](https://github.com/neomjs/neo/releases/tag/5.8.0), today) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.9.0](https://github.com/neomjs/neo/releases/tag/5.9.0), today) - The application worker driven frontend framework
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 1 week ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 2 weeks ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 2 weeks ago) - JavaScript email client. 
