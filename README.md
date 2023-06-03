@@ -15,11 +15,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
-- [ThorstenSuckow/hamilton](https://github.com/ThorstenSuckow/hamilton) -  (3 days ago)
-- [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the homepage of the quant project. (4 days ago)
-- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (4 days ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (4 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
+- [ThorstenSuckow/hamilton](https://github.com/ThorstenSuckow/hamilton) -  (4 days ago)
+- [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the homepage of the quant project. (5 days ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (5 days ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (5 days ago)
 - [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (2 weeks ago)
 - [quant-php/.github](https://github.com/quant-php/.github) -  (3 weeks ago)
 - [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (4 weeks ago)
@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.10.5](https://github.com/neomjs/neo/releases/tag/5.10.5), 1 day ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.10.5](https://github.com/neomjs/neo/releases/tag/5.10.5), 2 days ago) - The application worker driven frontend framework
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 1 month ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 1 month ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 1 month ago) - JavaScript email client. 
@@ -50,5 +50,5 @@ I am grateful that I get to do what I love every day.
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (6 months ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (10 months ago)
 - [JavaScript, function-as-object and the internet](https://thorsten.suckow-homberg.de/blog/2022/06/14/javascript-function-as-object-and-the-internet) (11 months ago)
-- [conjoon installer updates](https://thorsten.suckow-homberg.de/blog/2022/06/08/conjoon-installer-updates) (11 months ago)
+- [conjoon installer updates](https://thorsten.suckow-homberg.de/blog/2022/06/08/conjoon-installer-updates) (1 year ago)
 - [Releasing conjoon 1.0.0-beta.0](https://thorsten.suckow-homberg.de/blog/2022/06/07/releasing-conjoon-1-0-0-beta) (1 year ago)
