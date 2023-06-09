@@ -15,16 +15,16 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (today)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (6 days ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (6 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/hamilton](https://github.com/ThorstenSuckow/hamilton) -  (1 week ago)
 - [quant-php/quant.github.io](https://github.com/quant-php/quant.github.io) - The source for the homepage of the quant project. (1 week ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (1 week ago)
 - [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (1 week ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (1 week ago)
 - [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (3 weeks ago)
 - [quant-php/.github](https://github.com/quant-php/.github) -  (4 weeks ago)
-- [ThorstenSuckow/payroll](https://github.com/ThorstenSuckow/payroll) - companion app for Uncle Bob&#39;s Agile Software Development (1 month ago)
 
 
 ## Recent Releases
