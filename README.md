@@ -15,8 +15,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (2 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (3 days ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (2 weeks ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (2 weeks ago)
 - [ThorstenSuckow/hamilton](https://github.com/ThorstenSuckow/hamilton) -  (3 weeks ago)
@@ -29,7 +29,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [neomjs/neo](https://github.com/neomjs/neo) ([5.10.10](https://github.com/neomjs/neo/releases/tag/5.10.10), 1 day ago) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) ([5.10.10](https://github.com/neomjs/neo/releases/tag/5.10.10), 2 days ago) - The application worker driven frontend framework
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 1 month ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 1 month ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 1 month ago) - JavaScript email client. 
