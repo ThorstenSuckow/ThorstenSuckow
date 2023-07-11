@@ -15,9 +15,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 day ago)
+- [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (today)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (2 weeks ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 weeks ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (3 weeks ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 month ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 month ago)
@@ -42,6 +42,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
+- [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (today)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (2 months ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (2 months ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (2 months ago)
@@ -51,4 +52,3 @@ I am grateful that I get to do what I love every day.
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (1 year ago)
 - [JavaScript, function-as-object and the internet](https://thorsten.suckow-homberg.de/blog/2022/06/14/javascript-function-as-object-and-the-internet) (1 year ago)
 - [conjoon installer updates](https://thorsten.suckow-homberg.de/blog/2022/06/08/conjoon-installer-updates) (1 year ago)
-- [Releasing conjoon 1.0.0-beta.0](https://thorsten.suckow-homberg.de/blog/2022/06/07/releasing-conjoon-1-0-0-beta) (1 year ago)
