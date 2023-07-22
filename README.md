@@ -17,7 +17,7 @@ I am grateful that I get to do what I love every day.
 
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
-- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (3 weeks ago)
+- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (4 weeks ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (1 month ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (1 month ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (1 month ago)
@@ -38,7 +38,7 @@ I am grateful that I get to do what I love every day.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 4 months ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 4 months ago) - Functional, lightweight ES6&#43; JavaScript library.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 4 months ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
-- [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 4 months ago) - A backend service for IMAP/SMTP email messaging.
+- [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 5 months ago) - A backend service for IMAP/SMTP email messaging.
 
 ## Musings and general ideas
 
