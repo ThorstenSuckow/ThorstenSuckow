@@ -15,8 +15,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 weeks ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 weeks ago)
+- [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 month ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 month ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (1 month ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (1 month ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (2 months ago)
@@ -35,14 +35,14 @@ I am grateful that I get to do what I love every day.
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 3 months ago) - Email-client package.
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 3 months ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 3 months ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
-- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 4 months ago) - Create conjoon apps easily.
+- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 5 months ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 5 months ago) - Functional, lightweight ES6&#43; JavaScript library.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 5 months ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.4](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.4), 5 months ago) - A backend service for IMAP/SMTP email messaging.
 
 ## Musings and general ideas
 
-- [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (4 weeks ago)
+- [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 month ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (3 months ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (3 months ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (3 months ago)
