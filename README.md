@@ -17,7 +17,7 @@ I am grateful that I get to do what I love every day.
 
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 month ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 month ago)
-- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (1 month ago)
+- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (2 months ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (2 months ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (2 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (2 months ago)
