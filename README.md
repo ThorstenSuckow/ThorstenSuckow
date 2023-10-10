@@ -15,6 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (today)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (1 day ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 days ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 month ago)
@@ -24,7 +25,6 @@ I am grateful that I get to do what I love every day.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (4 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (4 months ago)
 - [ThorstenSuckow/hamilton](https://github.com/ThorstenSuckow/hamilton) -  (4 months ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (4 months ago)
 
 
 ## Recent Releases
