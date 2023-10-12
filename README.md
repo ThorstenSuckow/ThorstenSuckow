@@ -15,7 +15,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 day ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (today)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (3 days ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (5 days ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (1 month ago)
