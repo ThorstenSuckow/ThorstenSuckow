@@ -16,15 +16,15 @@ I am grateful that I get to do what I love every day.
 ## Recent contributions
 
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (today)
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 day ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (today)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (6 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 weeks ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (2 months ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (4 months ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (4 months ago)
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (4 months ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (4 months ago)
+- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (4 months ago)
 
 
 ## Recent Releases
