@@ -16,8 +16,8 @@ I am grateful that I get to do what I love every day.
 ## Recent contributions
 
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (today)
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (today)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (6 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (1 day ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 weeks ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (2 months ago)
@@ -30,9 +30,9 @@ I am grateful that I get to do what I love every day.
 ## Recent Releases
 
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 5 months ago) - PHP library for IMAP operations
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 5 months ago) - The official home page of conjoon.
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 5 months ago) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 5 months ago) - Email-client package.
+- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 6 months ago) - The official home page of conjoon.
+- [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 6 months ago) - JavaScript email client. 
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 6 months ago) - Email-client package.
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 6 months ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 6 months ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 7 months ago) - Create conjoon apps easily.
