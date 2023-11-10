@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (today)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (1 day ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (4 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (1 week ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (1 month ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (2 months ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (4 months ago)
