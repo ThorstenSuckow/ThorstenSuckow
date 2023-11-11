@@ -19,9 +19,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (today)
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (1 day ago)
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (4 days ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (1 day ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (2 days ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (5 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (1 month ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (2 months ago)
@@ -53,6 +53,6 @@ I am grateful that I get to do what I love every day.
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (7 months ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (7 months ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (8 months ago)
-- [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (11 months ago)
+- [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (1 year ago)
 - [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (1 year ago)
 - [JavaScript, function-as-object and the internet](https://thorsten.suckow-homberg.de/blog/2022/06/14/javascript-function-as-object-and-the-internet) (1 year ago)
