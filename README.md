@@ -19,6 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (today)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (today)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (4 days ago)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) -  (3 weeks ago)
@@ -27,7 +28,6 @@ I am grateful that I get to do what I love every day.
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (3 months ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (5 months ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (5 months ago)
-- [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (6 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (6 months ago)
 
 
