@@ -19,11 +19,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (today)
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (today)
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (3 days ago)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (5 days ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (5 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (1 day ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (4 days ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (6 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (6 days ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (2 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (3 months ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (5 months ago)
@@ -46,7 +46,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] Lösungshinweise Modul prog (Update 05.12.2023)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (5 days ago)
+- [[DE] Lösungshinweise Modul prog (Update 05.12.2023)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (6 days ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (5 months ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (7 months ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (8 months ago)
