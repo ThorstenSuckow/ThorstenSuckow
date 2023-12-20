@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (today)
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (4 days ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (1 day ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (5 days ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 week ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (2 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 weeks ago)
