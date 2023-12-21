@@ -19,13 +19,13 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (1 day ago)
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 week ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (2 days ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (2 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 weeks ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (2 weeks ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (2 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (3 months ago)
-- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (5 months ago)
+- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (6 months ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (6 months ago)
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) - JavaScript email client.  (6 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (6 months ago)
