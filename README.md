@@ -19,9 +19,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (today)
-- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (1 day ago)
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (2 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (2 days ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (3 days ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (3 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 weeks ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (3 weeks ago)
@@ -33,7 +33,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 7 months ago) - PHP library for IMAP operations
+- [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 8 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 8 months ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 8 months ago) - JavaScript email client. 
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 8 months ago) - Email-client package.
