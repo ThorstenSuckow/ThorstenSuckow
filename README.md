@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (today)
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (today)
-- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (3 days ago)
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (4 days ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (1 day ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (4 days ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (5 days ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (3 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 weeks ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (2 months ago)
