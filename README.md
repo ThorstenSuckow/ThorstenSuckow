@@ -19,11 +19,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (1 day ago)
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (1 day ago)
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (5 days ago)
+- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) -  (2 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Lösungen zu Aufgaben und Implementierung der Übungen des Moduls fopt im WS 2023/2024 im Fernstudiengang Informatik (M.C.Sc.) der Hochschule Trier. (2 days ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (6 days ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (3 weeks ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (2 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 months ago)
@@ -46,7 +46,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] Zulassungsarbeit M.C.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (today)
+- [[DE] Zulassungsarbeit M.C.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (1 day ago)
 - [[DE] Lösungshinweise Modul prog (Update 05.12.2023)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (3 weeks ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (5 months ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (8 months ago)
