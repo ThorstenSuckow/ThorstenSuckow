@@ -19,11 +19,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
-- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (5 days ago)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (6 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 days ago)
+- [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (6 days ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 week ago)
 - [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (1 week ago)
-- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (4 weeks ago)
+- [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 month ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 months ago)
 - [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (6 months ago)
@@ -46,7 +46,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (5 days ago)
+- [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (6 days ago)
 - [[DE] Lösungshinweise Modul prog (Update 05.12.2023)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (1 month ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (5 months ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (8 months ago)
@@ -55,4 +55,4 @@ I am grateful that I get to do what I love every day.
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (9 months ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (10 months ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (1 year ago)
-- [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (1 year ago)
+- [Easily create Siesta tests for your applications](https://thorsten.suckow-homberg.de/blog/2022/07/15/easily-create-siesta-tests-for-your-application) (2 years ago)
