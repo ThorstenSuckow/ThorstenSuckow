@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (4 days ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (6 days ago)
+- [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (5 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (2 weeks ago)
-- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (2 weeks ago)
+- [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (3 weeks ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 month ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 months ago)
@@ -33,20 +33,20 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 4 days ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
+- [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 5 days ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 8 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 8 months ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 8 months ago) - JavaScript email client. 
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 8 months ago) - Email-client package.
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 8 months ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 8 months ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 9 months ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 - [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 10 months ago) - Create conjoon apps easily.
 - [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 10 months ago) - Functional, lightweight ES6&#43; JavaScript library.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 10 months ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 
 ## Musings and general ideas
 
-- [[DE] Lösungshinweise Modul prog (Update 09.01.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (6 days ago)
+- [[DE] Lösungshinweise Modul prog (Update 09.01.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-zu-test1-fh-trier) (1 week ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (2 weeks ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (6 months ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (8 months ago)
