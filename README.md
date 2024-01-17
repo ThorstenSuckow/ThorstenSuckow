@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (5 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (6 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (2 weeks ago)
 - [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (3 weeks ago)
@@ -33,7 +33,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 5 days ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
+- [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 6 days ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 8 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 8 months ago) - The official home page of conjoon.
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v1.2.1](https://github.com/conjoon/conjoon/releases/tag/v1.2.1), 8 months ago) - JavaScript email client. 
