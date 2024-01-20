@@ -19,7 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 days ago)
+- [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (4 days ago)
 - [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (2 weeks ago)
@@ -27,7 +27,7 @@ I am grateful that I get to do what I love every day.
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 month ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 months ago)
 - [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 months ago)
-- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (6 months ago)
+- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (7 months ago)
 - [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (7 months ago)
 
 
