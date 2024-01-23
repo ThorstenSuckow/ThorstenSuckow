@@ -19,20 +19,23 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (today)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (today)
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (today)
 - [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (1 week ago)
 - [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (3 weeks ago)
 - [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (4 weeks ago)
 - [ThorstenSuckow/libjam](https://github.com/ThorstenSuckow/libjam) - Java Physics / Animation (1 month ago)
 - [ThorstenSuckow/jetris](https://github.com/ThorstenSuckow/jetris) -  (3 months ago)
-- [ThorstenSuckow/pylabs](https://github.com/ThorstenSuckow/pylabs) - AI implementations with Python (4 months ago)
-- [ThorstenSuckow/hamilton-py](https://github.com/ThorstenSuckow/hamilton-py) -  (7 months ago)
-- [ThorstenSuckow/python-neuron](https://github.com/ThorstenSuckow/python-neuron) -  (7 months ago)
 
 
 ## Recent Releases
 
+- [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), today) - all-purpose library for a general-purpose scripting language.
+- [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), today) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), today) - phpstan extensions for quant
 - [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 1 week ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 8 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 8 months ago) - The official home page of conjoon.
@@ -40,9 +43,6 @@ I am grateful that I get to do what I love every day.
 - [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v1.1.1](https://github.com/conjoon/extjs-app-webmail/releases/tag/v1.1.1), 8 months ago) - Email-client package.
 - [coon-js/extjs-lib-core](https://github.com/coon-js/extjs-lib-core) ([v1.1.1](https://github.com/coon-js/extjs-lib-core/releases/tag/v1.1.1), 9 months ago) - Library for creating configurable, extensible Sencha ExtJS applications. Contains PageMap-tools for dynamically changing data of a BufferedStore.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 9 months ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
-- [conjoon/create-conjoon](https://github.com/conjoon/create-conjoon) ([v1.0.0](https://github.com/conjoon/create-conjoon/releases/tag/v1.0.0), 10 months ago) - Create conjoon apps easily.
-- [l8js/l8](https://github.com/l8js/l8) ([v0.12.1](https://github.com/l8js/l8/releases/tag/v0.12.1), 10 months ago) - Functional, lightweight ES6&#43; JavaScript library.
-- [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v1.0.5](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v1.0.5), 11 months ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 
 ## Musings and general ideas
 
