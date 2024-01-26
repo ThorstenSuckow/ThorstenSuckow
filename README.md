@@ -19,11 +19,11 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (2 days ago)
-- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (2 days ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (2 days ago)
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (2 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 days ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 days ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (3 days ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (3 days ago)
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (3 days ago)
 - [coon-js/delorean](https://github.com/coon-js/delorean) - Transpiles modern ECMAScript to ES5 for Sencha CMD. (2 weeks ago)
 - [ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin](https://github.com/ThorstenSuckow/funkionsprinzipien-und-anwendung-kuenstlicher-intelligenz-in-der-medizin) - Zulassungsarbeit (M. Sc. Informatik) zum Thema &#34;Funktionsprinzipien und Anwendung künstlicher Intelligenz in der Medizin&#34;   (3 weeks ago)
 - [ThorstenSuckow/adventofcode23](https://github.com/ThorstenSuckow/adventofcode23) -  (1 month ago)
@@ -33,9 +33,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 2 days ago) - all-purpose library for a general-purpose scripting language.
-- [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 2 days ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), 2 days ago) - phpstan extensions for quant
+- [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 3 days ago) - all-purpose library for a general-purpose scripting language.
+- [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 3 days ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), 3 days ago) - phpstan extensions for quant
 - [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 2 weeks ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2-beta.0](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2-beta.0), 8 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 8 months ago) - The official home page of conjoon.
@@ -49,7 +49,7 @@ I am grateful that I get to do what I love every day.
 - [[DE] Lösungshinweise Modul prog (Update 23.01.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (2 weeks ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (3 weeks ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (6 months ago)
-- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (8 months ago)
+- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (9 months ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (9 months ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (9 months ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (10 months ago)
