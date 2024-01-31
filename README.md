@@ -34,7 +34,7 @@ I am grateful that I get to do what I love every day.
 ## Recent Releases
 
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v2.0.0-alpha.0](https://github.com/conjoon/conjoon/releases/tag/v2.0.0-alpha.0), 1 day ago) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v2.0.0-alpha.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v2.0.0-alpha.0), 1 day ago) - Email-client package.
+- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v2.0.0-alpha.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v2.0.0-alpha.0), 1 day ago) - JavaScript email client of conjoon.
 - [conjoon/extjs-dev-webmailsim](https://github.com/conjoon/extjs-dev-webmailsim) ([v2.0.0-alpha.0](https://github.com/conjoon/extjs-dev-webmailsim/releases/tag/v2.0.0-alpha.0), 1 day ago) - Dev package for mocking backend requests and data for conjoon/app-cn_mail
 - [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 1 week ago) - all-purpose library for a general-purpose scripting language.
 - [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 1 week ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
