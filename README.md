@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/aufs](https://github.com/ThorstenSuckow/aufs) - Documentation, solutions to tasks, and implementations of assignments for the &#39;aufs&#39; module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (today)
-- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (today)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 days ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 days ago)
+- [ThorstenSuckow/aufs](https://github.com/ThorstenSuckow/aufs) - Documentation, solutions to tasks, and implementations of assignments for the &#39;aufs&#39; module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 day ago)
+- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 day ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (4 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 days ago)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 weeks ago)
 - [ThorstenSuckow/relfield](https://github.com/ThorstenSuckow/relfield) - Draft for JSON:API to extend on sparse fieldsets with excluded fields  (1 month ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (1 month ago)
@@ -50,7 +50,7 @@ I am grateful that I get to do what I love every day.
 - [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (1 month ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (2 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (8 months ago)
-- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (10 months ago)
+- [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (11 months ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (11 months ago)
 - [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (11 months ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 year ago)
