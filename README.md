@@ -28,7 +28,7 @@ I am grateful that I get to do what I love every day.
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) - A backend service for IMAP/SMTP email messaging. (2 months ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (2 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (2 months ago)
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (2 months ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (2 months ago)
 
 
 ## Recent Releases
