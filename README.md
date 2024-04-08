@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (today)
-- [ThorstenSuckow/aufs](https://github.com/ThorstenSuckow/aufs) - Documentation, solutions to tasks, and implementations of assignments for the &#39;aufs&#39; module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 day ago)
+- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 day ago)
+- [ThorstenSuckow/aufs](https://github.com/ThorstenSuckow/aufs) - Documentation, solutions to tasks, and implementations of assignments for the &#39;aufs&#39; module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (2 days ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (2 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 weeks ago)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 month ago)
@@ -51,8 +51,8 @@ I am grateful that I get to do what I love every day.
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (3 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (9 months ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (11 months ago)
-- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (11 months ago)
-- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (11 months ago)
+- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (1 year ago)
+- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (1 year ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (1 year ago)
 - [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (1 year ago)
 - [Releasing conjoon V1.0](https://thorsten.suckow-homberg.de/blog/Releasing-conjoon-V1.0) (1 year ago)
