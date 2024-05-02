@@ -36,7 +36,6 @@ I am grateful that I get to do what I love every day.
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.5](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.5), 3 months ago) - A backend service for IMAP/SMTP email messaging.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2), 3 months ago) - PHP library for IMAP operations
 - [conjoon/conjoon](https://github.com/conjoon/conjoon) ([v2.0.0-alpha.0](https://github.com/conjoon/conjoon/releases/tag/v2.0.0-alpha.0), 3 months ago) - JavaScript email client. 
-- [conjoon/extjs-app-webmail](https://github.com/conjoon/extjs-app-webmail) ([v2.0.0-alpha.0](https://github.com/conjoon/extjs-app-webmail/releases/tag/v2.0.0-alpha.0), 3 months ago) - JavaScript email client of conjoon.
 - [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 3 months ago) - all-purpose library for a general-purpose scripting language.
 - [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 3 months ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
 - [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), 3 months ago) - phpstan extensions for quant
