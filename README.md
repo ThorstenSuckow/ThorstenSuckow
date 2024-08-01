@@ -19,7 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (today)
+- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 day ago)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 months ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 months ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 months ago)
@@ -45,7 +45,7 @@ I am grateful that I get to do what I love every day.
 ## Musings and general ideas
 
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (4 months ago)
-- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (5 months ago)
+- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (6 months ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (7 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 year ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 year ago)
