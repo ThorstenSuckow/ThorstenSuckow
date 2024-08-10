@@ -19,7 +19,6 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/se](https://github.com/ThorstenSuckow/se) - Documentation, solutions to tasks, and implementations of assignments for the `se` module, offered in the summer semester of 2024 as part of the Master of Computer Science (M.C.Sc.) distance learning program at Trier University of Applied Sciences. (1 week ago)
 - [ThorstenSuckow/fopt](https://github.com/ThorstenSuckow/fopt) - Solutions to tasks and implementation of exercises for the module &#39;fopt&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 months ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (4 months ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 months ago)
@@ -27,8 +26,9 @@ I am grateful that I get to do what I love every day.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (6 months ago)
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) - A backend service for IMAP/SMTP email messaging. (6 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (6 months ago)
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (6 months ago)
 - [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (6 months ago)
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (6 months ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (6 months ago)
 
 
 ## Recent Releases
