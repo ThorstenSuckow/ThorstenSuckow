@@ -26,18 +26,18 @@ I am grateful that I get to do what I love every day.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (6 months ago)
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) - A backend service for IMAP/SMTP email messaging. (6 months ago)
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (6 months ago)
-- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (6 months ago)
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (6 months ago)
-- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (6 months ago)
+- [quant-php/core](https://github.com/quant-php/core) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects. (7 months ago)
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (7 months ago)
+- [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (7 months ago)
 
 
 ## Recent Releases
 
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.5](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.5), 6 months ago) - A backend service for IMAP/SMTP email messaging.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2), 6 months ago) - PHP library for IMAP operations
-- [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 6 months ago) - all-purpose library for a general-purpose scripting language.
-- [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 6 months ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
-- [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), 6 months ago) - phpstan extensions for quant
+- [quant-php/quant](https://github.com/quant-php/quant) ([v1.0.0](https://github.com/quant-php/quant/releases/tag/v1.0.0), 7 months ago) - all-purpose library for a general-purpose scripting language.
+- [quant-php/core](https://github.com/quant-php/core) ([v1.0.0](https://github.com/quant-php/core/releases/tag/v1.0.0), 7 months ago) - Low-level API providing contracts and base implementations for quant. Can easily be used as a foundation for other projects.
+- [quant-php/phpstan](https://github.com/quant-php/phpstan) ([v1.0.0](https://github.com/quant-php/phpstan/releases/tag/v1.0.0), 7 months ago) - phpstan extensions for quant
 - [coon-js/delorean](https://github.com/coon-js/delorean) ([v0.3.4](https://github.com/coon-js/delorean/releases/tag/v0.3.4), 7 months ago) - Transpiles modern ECMAScript to ES5 for Sencha CMD.
 - [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 1 year ago) - The official home page of conjoon.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 1 year ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
