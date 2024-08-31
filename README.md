@@ -45,7 +45,7 @@ I am grateful that I get to do what I love every day.
 ## Musings and general ideas
 
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (5 months ago)
-- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (6 months ago)
+- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (7 months ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (8 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 year ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 year ago)
