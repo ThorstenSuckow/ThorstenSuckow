@@ -12,6 +12,9 @@ I'm maintaining several Open Source projects in my spare time. I'm glad many use
 
 I am grateful that I get to do what I love every day.
 
+<br />
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="64"/> My projects are proudly supported by <a href="https://jb.gg/OpenSourceSupport">JetBrains</a>.
+
 
 
 ## Recent contributions
