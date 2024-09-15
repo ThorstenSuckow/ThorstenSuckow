@@ -19,9 +19,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 days ago)
+- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 days ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
 - [ThorstenSuckow/relfield](https://github.com/ThorstenSuckow/relfield) - Draft for JSON:API to extend on sparse fieldsets with excluded fields  (7 months ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (7 months ago)
@@ -44,7 +44,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (3 days ago)
+- [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (4 days ago)
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (1 week ago)
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (6 months ago)
 - [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (7 months ago)
