@@ -19,7 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
