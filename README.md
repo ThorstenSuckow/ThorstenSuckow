@@ -19,14 +19,14 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (5 days ago)
+- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (2 days ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (6 days ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
 - [ThorstenSuckow/relfield](https://github.com/ThorstenSuckow/relfield) - Draft for JSON:API to extend on sparse fieldsets with excluded fields  (7 months ago)
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) - PHP library for IMAP operations (7 months ago)
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) - A backend service for IMAP/SMTP email messaging. (7 months ago)
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (7 months ago)
+- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) - The official home page of conjoon. (8 months ago)
 - [quant-php/quant](https://github.com/quant-php/quant) - all-purpose library for a general-purpose scripting language. (8 months ago)
 - [quant-php/phpstan](https://github.com/quant-php/phpstan) - phpstan extensions for quant (8 months ago)
 
@@ -48,7 +48,7 @@ I am grateful that I get to do what I love every day.
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (3 weeks ago)
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (6 months ago)
 - [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (7 months ago)
-- [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (8 months ago)
+- [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (9 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 year ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 year ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (1 year ago)
