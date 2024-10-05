@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
+- [ThorstenSuckow/dbs](https://github.com/ThorstenSuckow/dbs) - Solutions to tasks and implementation of exercises for the module &#39;dbs&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/rn](https://github.com/ThorstenSuckow/rn) - Solutions to tasks and implementation of exercises for the module &#39;rn&#39; in the winter semester 2024/25 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 week ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
 - [ThorstenSuckow/relfield](https://github.com/ThorstenSuckow/relfield) - Draft for JSON:API to extend on sparse fieldsets with excluded fields  (8 months ago)
@@ -51,6 +51,6 @@ I am grateful that I get to do what I love every day.
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (9 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 year ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (1 year ago)
-- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (1 year ago)
-- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (1 year ago)
+- [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (2 years ago)
+- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (2 years ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (2 years ago)
