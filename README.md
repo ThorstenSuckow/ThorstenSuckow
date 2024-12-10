@@ -44,9 +44,9 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (2 months ago)
+- [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (3 months ago)
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (3 months ago)
-- [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (8 months ago)
+- [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (9 months ago)
 - [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (10 months ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (11 months ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (1 year ago)
