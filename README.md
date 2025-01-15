@@ -19,9 +19,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (today)
+- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (1 day ago)
 - [ThorstenSuckow/physx](https://github.com/ThorstenSuckow/physx) - Python CPU bound / OpenGL 2D playground (1 week ago)
-- [ThorstenSuckow/adventofcode24](https://github.com/ThorstenSuckow/adventofcode24) -  (2 weeks ago)
+- [ThorstenSuckow/adventofcode24](https://github.com/ThorstenSuckow/adventofcode24) -  (3 weeks ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (2 months ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (3 months ago)
 - [ThorstenSuckow/relfield](https://github.com/ThorstenSuckow/relfield) - Draft for JSON:API to extend on sparse fieldsets with excluded fields  (11 months ago)
