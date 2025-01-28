@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (today)
-- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (1 day ago)
+- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 day ago)
+- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (2 days ago)
 - [ThorstenSuckow/adventofcode24](https://github.com/ThorstenSuckow/adventofcode24) -  (1 month ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (2 months ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (4 months ago)
@@ -42,7 +42,7 @@ I am grateful that I get to do what I love every day.
 - [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (4 months ago)
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (4 months ago)
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (10 months ago)
-- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (11 months ago)
+- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (1 year ago)
 - [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (1 year ago)
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (2 years ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (2 years ago)
