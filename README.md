@@ -34,7 +34,6 @@ I am grateful that I get to do what I love every day.
 
 - [conjoon/lumen-app-email](https://github.com/conjoon/lumen-app-email) ([v1.1.5](https://github.com/conjoon/lumen-app-email/releases/tag/v1.1.5), 1 year ago) - A backend service for IMAP/SMTP email messaging.
 - [conjoon/php-lib-conjoon](https://github.com/conjoon/php-lib-conjoon) ([v1.1.2](https://github.com/conjoon/php-lib-conjoon/releases/tag/v1.1.2), 1 year ago) - PHP library for IMAP operations
-- [conjoon/conjoon.github.io](https://github.com/conjoon/conjoon.github.io) ([v1.2.0](https://github.com/conjoon/conjoon.github.io/releases/tag/v1.2.0), 2 years ago) - The official home page of conjoon.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 2 years ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
 
 ## Musings and general ideas
