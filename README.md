@@ -19,7 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 day ago)
+- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (today)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (4 days ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (5 days ago)
 - [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (3 weeks ago)
