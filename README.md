@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/es](https://github.com/ThorstenSuckow/es) - Solutions to tasks and implementation of exercises for the module &#39;es&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
+- [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (2 days ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (2 weeks ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (1 month ago)
