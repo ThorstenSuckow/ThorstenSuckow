@@ -19,15 +19,15 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/es](https://github.com/ThorstenSuckow/es) - Solutions to tasks and implementation of exercises for the module &#39;es&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/es](https://github.com/ThorstenSuckow/es) - Solutions to tasks and implementation of exercises for the module &#39;es&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (3 days ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 month ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (1 month ago)
 - [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (2 months ago)
 - [ThorstenSuckow/adventofcode24](https://github.com/ThorstenSuckow/adventofcode24) -  (3 months ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (4 months ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (6 months ago)
 
 
 ## Recent Releases
