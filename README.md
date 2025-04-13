@@ -19,9 +19,9 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
 - [ThorstenSuckow/es](https://github.com/ThorstenSuckow/es) - Solutions to tasks and implementation of exercises for the module &#39;es&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 day ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (6 days ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 month ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (1 month ago)
@@ -44,5 +44,5 @@ I am grateful that I get to do what I love every day.
 - [Perceptron Function Plotting with Python](https://thorsten.suckow-homberg.de/blog/2023/07/11/perceptron-function-plotting-in-python) (2 years ago)
 - [[DE] &#34;Beweisen lernen&#34; - Errata](https://thorsten.suckow-homberg.de/blog/2023/05/01/errata-beweisen-lernen) (2 years ago)
 - [[DE] Verfällt ein Big Ball of Mud?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay) (2 years ago)
-- [Does a big ball of mud decay?](https://thorsten.suckow-homberg.de/blog/2023/04/14/big-ball-of-mud-decay/index_en) (2 years ago)
 - [bcc-header issues with Horde_Mime_Mail](https://thorsten.suckow-homberg.de/blog/2023/03/20/horde-mail-ignores-bcc) (2 years ago)
+- [Fix: Missing favicon.ico in Sencha ExtJS production builds](https://thorsten.suckow-homberg.de/blog/2023/02/19/fix-missing-favicon-in-extjs) (2 years ago)
