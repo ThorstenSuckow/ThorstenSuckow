@@ -19,7 +19,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (today)
 - [ThorstenSuckow/es](https://github.com/ThorstenSuckow/es) - Solutions to tasks and implementation of exercises for the module &#39;es&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 days ago)
 - [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (1 week ago)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (3 weeks ago)
