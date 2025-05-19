@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (today)
 - [ThorstenSuckow/its](https://github.com/ThorstenSuckow/its) - Solutions to tasks and implementation of exercises for the module &#39;its&#39; in the summer semester 2025 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - My personal website with articles on software development. Includes a software craftsmanship toolbox. (2 days ago)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (1 month ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (2 months ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (2 months ago)
@@ -31,7 +31,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v1.1.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v1.1.0), 2 years ago) - My personal website with articles on software development. Includes a software craftsmanship toolbox.
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), today) - Personal website with curated articles on programming and software development. 
 
 ## Musings and general ideas
 
