@@ -24,7 +24,7 @@ I am grateful that I get to do what I love every day.
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (3 months ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (4 months ago)
 - [ThorstenSuckow/cSandbox](https://github.com/ThorstenSuckow/cSandbox) - Roses are red, violets are blue, pointer to an int, change its value, too. (5 months ago)
-- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (5 months ago)
+- [ThorstenSuckow/pyOpenGL](https://github.com/ThorstenSuckow/pyOpenGL) - Code-Alongs for &#34;Developing Graphics Frameworks with Python and OpenGL&#34; (6 months ago)
 - [ThorstenSuckow/adventofcode24](https://github.com/ThorstenSuckow/adventofcode24) -  (7 months ago)
 
 
@@ -35,7 +35,7 @@ I am grateful that I get to do what I love every day.
 ## Musings and general ideas
 
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (2 months ago)
-- [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (2 months ago)
+- [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (3 months ago)
 - [A Brief Overview on Recent Cyberattacks](https://thorsten.suckow-homberg.de/blog/a-brief-overview-on-recent-cyberattacks) (4 months ago)
 - [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (10 months ago)
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (10 months ago)
