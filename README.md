@@ -37,7 +37,8 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [Model Matrix Transformations: A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (1 week ago)
+- [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (today)
+- [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (1 week ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (3 weeks ago)
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (3 months ago)
 - [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (4 months ago)
@@ -46,4 +47,3 @@ I am grateful that I get to do what I love every day.
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (1 year ago)
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (1 year ago)
 - [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (2 years ago)
-- [[DE] Zulassungsarbeit M.Sc. Informatik](https://thorsten.suckow-homberg.de/blog/2023-12-31-zulassungsarbeit-master-of-computer-science) (2 years ago)
