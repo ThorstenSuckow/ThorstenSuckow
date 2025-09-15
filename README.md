@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) -  (today)
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (today)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) -  (1 day ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 day ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 week ago)
-- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (4 weeks ago)
+- [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 month ago)
 - [ThorstenSuckow/threejs-lab](https://github.com/ThorstenSuckow/threejs-lab) -  (1 month ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (3 months ago)
 - [ThorstenSuckow/cppRaytracer](https://github.com/ThorstenSuckow/cppRaytracer) - Shine a light. Code-alongs for Ray Tracing in One Weekend by Peter Shirley (V1.54).  (5 months ago)
