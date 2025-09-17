@@ -37,6 +37,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
+- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (today)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (2 weeks ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (3 weeks ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (1 month ago)
@@ -46,4 +47,3 @@ I am grateful that I get to do what I love every day.
 - [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (1 year ago)
 - [[DE] Betrachtung des Widerspruchsbeweis des speziellen Halteproblems nach Vossen und Witt](https://thorsten.suckow-homberg.de/blog/betrachtung-des-widerspruchsbeweis-des-speziellen-halteproblems-nach-vossen-und-witt) (1 year ago)
 - [[DE] Lösungshinweise Modul prog (Update 15.03.2024)](https://thorsten.suckow-homberg.de/blog/loesungshinweise-prog-fh-trier) (2 years ago)
-- [[DE] Shellsort Laufzeitanalyse](https://thorsten.suckow-homberg.de/blog/shellsort-lauzeitanalyse) (2 years ago)
