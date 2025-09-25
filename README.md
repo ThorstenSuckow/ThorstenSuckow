@@ -19,8 +19,8 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (today)
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 day ago)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 day ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (2 days ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 week ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (1 month ago)
 - [ThorstenSuckow/threejs-lab](https://github.com/ThorstenSuckow/threejs-lab) -  (1 month ago)
@@ -39,7 +39,7 @@ I am grateful that I get to do what I love every day.
 
 - [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (1 week ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (3 weeks ago)
-- [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (4 weeks ago)
+- [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (1 month ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (1 month ago)
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (4 months ago)
 - [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (5 months ago)
