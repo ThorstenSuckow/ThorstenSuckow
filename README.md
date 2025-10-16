@@ -33,7 +33,7 @@ I am grateful that I get to do what I love every day.
 
 ## Recent Releases
 
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), 4 months ago) - Personal website with curated articles on programming and software development. 
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), 5 months ago) - Personal website with curated articles on programming and software development. 
 
 ## Musings and general ideas
 
