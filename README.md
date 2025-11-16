@@ -19,10 +19,10 @@ I am grateful that I get to do what I love every day.
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (today)
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (5 days ago)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 day ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (6 days ago)
 - [garagecraft-games/.github](https://github.com/garagecraft-games/.github) -  (2 weeks ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 month ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (2 months ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (3 months ago)
 - [ThorstenSuckow/threejs-lab](https://github.com/ThorstenSuckow/threejs-lab) -  (3 months ago)
 - [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
@@ -37,7 +37,7 @@ I am grateful that I get to do what I love every day.
 
 ## Musings and general ideas
 
-- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (1 month ago)
+- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (2 months ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (2 months ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (2 months ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (3 months ago)
