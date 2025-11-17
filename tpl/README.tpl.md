@@ -1,34 +1,30 @@
-# Hi. I'm [Thorsten](https://thorsten.suckow-homberg.de/about),
-## Full Stack Senior and Trainer for Software Development.
+# Thorsten Suckow-Homberg
+## Senior Full Stack Engineer
 
-### I see [Software Development as craftsmanship](https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship/).
+### Advocating [Software Development as a rigorous craft](https://thorsten.suckow-homberg.de/docs/articles/software-craftsmanship/).
 
-The focus of my work is on Design and Agile Development of Software.
-I favor Object Oriented languages. I do have a soft spot for JavaScript.
+I collaborate with international clients to architect maintainable, high-quality web applications. My technical foundation rests on **Object-Oriented Design** and the development of scalable architectures using JavaScript, PHP, and modern frontend frameworks.
 
-In recent years I had the chance to accompany teams of different sizes in workshops and training sessions on software development. The lessons I have learned through this are among the most valuable in my life.
+### Open Source Leadership
+I am the author and lead maintainer of the messaging suite **[conjoon](https://conjoon.org)**. My work on UI libraries, specifically **Ext.ux.Livegrid**, has been validated by widespread industry adoption, including its integration into the **Oracle Enterprise Manager**.
 
-I'm maintaining several Open Source projects in my spare time. I'm glad many users consider my work beneficial, from individuals to mid-sized enterprises and Fortune 500 companies.
+### Academic Focus: Computer Graphics & Engineering
+Currently pursuing a **Master’s degree in Computer Science** at Trier University of Applied Sciences, I am expanding my specialization into **Real-Time Rendering Pipelines** and **Computer Graphics**.
 
-I am grateful that I get to do what I love every day.
-
-<br />
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="64"/> My projects are proudly supported by <a href="https://jb.gg/OpenSourceSupport">JetBrains</a>.
-
+Operating at the intersection of mathematics, system architecture, and visual computing, I conduct research on software architecture and game development using **C++** and **OpenGL**. I frequently publish my findings.
 
 
 ## Recent contributions
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
-
+ {{- end}}
 
 ## Recent Releases
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-  {{- end}}
+ {{- end}}
 
-## Musings and general ideas
+## Publications & Discourse
 {{range rss "https://thorsten.suckow-homberg.de/blog/rss.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-  {{- end}}
+ {{- end}}
