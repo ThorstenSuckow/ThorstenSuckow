@@ -19,7 +19,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 ## Recent contributions
 
 - [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (today)
-- [software-craftsmanship-dev/.github](https://github.com/software-craftsmanship-dev/.github) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (1 day ago)
+- [software-craftsmanship-dev/.github](https://github.com/software-craftsmanship-dev/.github) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (today)
 - [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (4 days ago)
 - [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 week ago)
 - [garagecraft-games/.github](https://github.com/garagecraft-games/.github) -  (2 weeks ago)
