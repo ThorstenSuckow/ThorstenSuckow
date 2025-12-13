@@ -20,8 +20,8 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (2 days ago)
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (4 days ago)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (3 days ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (5 days ago)
 - [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (2 weeks ago)
 - [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (3 weeks ago)
@@ -29,7 +29,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [garagecraft-games/.github](https://github.com/garagecraft-games/.github) -  (1 month ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (3 months ago)
 - [ThorstenSuckow/threejs-lab](https://github.com/ThorstenSuckow/threejs-lab) -  (4 months ago)
-- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (5 months ago)
+- [ThorstenSuckow/prog](https://github.com/ThorstenSuckow/prog) - Solutions to tasks and implementation of exercises for the module &#39;prog&#39; in the winter semester 2023/24 in the distance learning program Computer Science (M.C.Sc.) at Hochschule Trier. (6 months ago)
 
 ## Recent Releases
 
