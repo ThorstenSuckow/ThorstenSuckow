@@ -20,12 +20,12 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (today)
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (2 days ago)
-- [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (1 week ago)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 day ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (3 days ago)
+- [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (2 weeks ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (3 weeks ago)
-- [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (3 weeks ago)
-- [software-craftsmanship-dev/.github](https://github.com/software-craftsmanship-dev/.github) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (3 weeks ago)
+- [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (4 weeks ago)
+- [software-craftsmanship-dev/.github](https://github.com/software-craftsmanship-dev/.github) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (4 weeks ago)
 - [garagecraft-games/.github](https://github.com/garagecraft-games/.github) -  (1 month ago)
 - [ThorstenSuckow/cppOpenGL](https://github.com/ThorstenSuckow/cppOpenGL) - OpenGL playground (C&#43;&#43;) (4 months ago)
 - [ThorstenSuckow/threejs-lab](https://github.com/ThorstenSuckow/threejs-lab) -  (4 months ago)
