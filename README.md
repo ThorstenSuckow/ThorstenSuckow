@@ -34,7 +34,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 ## Recent Releases
 
 - [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) ([v1.0.0](https://github.com/software-craftsmanship-dev/ai-manifesto/releases/tag/v1.0.0), 1 month ago) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement.
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), 7 months ago) - Personal website with curated articles on programming and software development. 
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), 8 months ago) - Personal website with curated articles on programming and software development. 
 
 ## Publications & Discourse
 
