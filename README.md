@@ -20,7 +20,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (today)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 day ago)
 - [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 week ago)
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 month ago)
 - [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (2 months ago)
@@ -33,7 +33,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent Releases
 
-- [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) ([v1.0.0](https://github.com/software-craftsmanship-dev/ai-manifesto/releases/tag/v1.0.0), 2 months ago) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement.
+- [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) ([v1.0.0](https://github.com/software-craftsmanship-dev/ai-manifesto/releases/tag/v1.0.0), 3 months ago) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement.
 - [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) ([v2.0.0](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de/releases/tag/v2.0.0), 9 months ago) - Personal website with curated articles on programming and software development. 
 
 ## Publications & Discourse
