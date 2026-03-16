@@ -40,7 +40,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 - [helios - A High-Level Overview of the Game Loop Architecture](https://thorsten.suckow-homberg.de/blog/high-level-overview-of-the-game-loop-architecture) (2 months ago)
 - [Manifesto for AI-Augmented Software Craftsmanship](https://thorsten.suckow-homberg.de/blog/manifesto-for-ai-augmented-software-craftsmanship) (3 months ago)
-- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (5 months ago)
+- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (6 months ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (6 months ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (6 months ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (7 months ago)
