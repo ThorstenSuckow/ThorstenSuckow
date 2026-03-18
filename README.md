@@ -46,5 +46,5 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (7 months ago)
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (10 months ago)
 - [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (10 months ago)
-- [A Brief Overview on Recent Cyberattacks](https://thorsten.suckow-homberg.de/blog/a-brief-overview-on-recent-cyberattacks) (11 months ago)
+- [A Brief Overview on Recent Cyberattacks](https://thorsten.suckow-homberg.de/blog/a-brief-overview-on-recent-cyberattacks) (1 year ago)
 - [Contracted Events for Micro Frontend Communication](https://thorsten.suckow-homberg.de/blog/contracted-events-for-micro-frontend-communication) (2 years ago)
