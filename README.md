@@ -20,8 +20,8 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (today)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (6 days ago)
+- [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 day ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 week ago)
 - [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 week ago)
 - [software-craftsmanship-dev/website](https://github.com/software-craftsmanship-dev/website) - Official website for the Manifesto for AI-Augmented Software Craftsmanship  (4 months ago)
 - [software-craftsmanship-dev/.github](https://github.com/software-craftsmanship-dev/.github) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement. (5 months ago)
@@ -46,5 +46,5 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (7 months ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (8 months ago)
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (11 months ago)
-- [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (11 months ago)
+- [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (1 year ago)
 - [A Brief Overview on Recent Cyberattacks](https://thorsten.suckow-homberg.de/blog/a-brief-overview-on-recent-cyberattacks) (1 year ago)
