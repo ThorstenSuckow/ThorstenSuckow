@@ -20,9 +20,9 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
+- [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (today)
 - [ThorstenSuckow/helios-math](https://github.com/ThorstenSuckow/helios-math) - Lightweight C&#43;&#43;23 math module collection for vectors, matrices, transforms, and numeric utilities used by helios. (1 day ago)
 - [ThorstenSuckow/helios-imgui](https://github.com/ThorstenSuckow/helios-imgui) - ImGui integration layer for the helios C&#43;&#43; engine, providing debug UI, overlays, log widgets, and editor-facing runtime tools. (3 days ago)
-- [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (4 days ago)
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (4 days ago)
 - [ThorstenSuckow/helios-website](https://github.com/ThorstenSuckow/helios-website) - Documentation and project website for helios, including engine architecture notes, development logs, API references, and thesis-related material. (5 days ago)
 - [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (5 days ago)
