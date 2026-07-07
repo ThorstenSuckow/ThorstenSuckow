@@ -44,7 +44,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (9 months ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (10 months ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (10 months ago)
-- [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (10 months ago)
+- [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (11 months ago)
 - [Rotations as a Special Case of Vector Transformations](https://thorsten.suckow-homberg.de/blog/rotations-as-a-special-case-of-vector-transformations) (1 year ago)
 - [The Geometry of the Dot Product](https://thorsten.suckow-homberg.de/blog/the-geometry-of-the-dot-product) (1 year ago)
 - [A Brief Overview on Recent Cyberattacks](https://thorsten.suckow-homberg.de/blog/a-brief-overview-on-recent-cyberattacks) (1 year ago)
