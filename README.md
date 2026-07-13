@@ -28,7 +28,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (3 weeks ago)
 - [ThorstenSuckow/helios-math](https://github.com/ThorstenSuckow/helios-math) - Lightweight C&#43;&#43;23 math module collection for vectors, matrices, transforms, and numeric utilities used by helios. (3 weeks ago)
 - [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems. (3 weeks ago)
-- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (3 weeks ago)
+- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (4 weeks ago)
 - [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 month ago)
 
 ## Recent Releases
