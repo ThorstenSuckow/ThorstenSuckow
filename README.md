@@ -41,7 +41,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [helios - Exploratory Development of an ECS-based Game Engine](https://thorsten.suckow-homberg.de/blog/exploratory-development-of-an-ecs-based-game-engine) (3 months ago)
 - [helios - A High-Level Overview of the Game Loop Architecture](https://thorsten.suckow-homberg.de/blog/high-level-overview-of-the-game-loop-architecture) (6 months ago)
 - [Manifesto for AI-Augmented Software Craftsmanship](https://thorsten.suckow-homberg.de/blog/manifesto-for-ai-augmented-software-craftsmanship) (7 months ago)
-- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (9 months ago)
+- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (10 months ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (10 months ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (10 months ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (11 months ago)
