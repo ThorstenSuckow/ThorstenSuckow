@@ -20,15 +20,15 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (today)
-- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (today)
+- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 day ago)
 - [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (1 day ago)
-- [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (2 days ago)
-- [ThorstenSuckow/helios-gameplay](https://github.com/ThorstenSuckow/helios-gameplay) - Gameplay module for helios, providing reusable high-level gameplay systems. (4 days ago)
-- [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems. (4 days ago)
-- [ThorstenSuckow/helios-imgui](https://github.com/ThorstenSuckow/helios-imgui) - ImGui integration layer for the helios C&#43;&#43; engine, providing debug UI, overlays, log widgets, and editor-facing runtime tools. (4 days ago)
-- [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (5 days ago)
-- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (1 week ago)
+- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (1 day ago)
+- [ThorstenSuckow/helios-gameplay](https://github.com/ThorstenSuckow/helios-gameplay) - Gameplay module for helios, providing reusable high-level gameplay systems. (1 day ago)
+- [ThorstenSuckow/helios-imgui](https://github.com/ThorstenSuckow/helios-imgui) - ImGui integration layer for the helios C&#43;&#43; engine, providing debug UI, overlays, log widgets, and editor-facing runtime tools. (1 day ago)
+- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (1 day ago)
+- [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems. (1 day ago)
+- [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (1 day ago)
+- [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (1 week ago)
 - [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (2 weeks ago)
 
 ## Recent Releases
@@ -41,7 +41,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [helios - Exploratory Development of an ECS-based Game Engine](https://thorsten.suckow-homberg.de/blog/exploratory-development-of-an-ecs-based-game-engine) (4 months ago)
 - [helios - A High-Level Overview of the Game Loop Architecture](https://thorsten.suckow-homberg.de/blog/high-level-overview-of-the-game-loop-architecture) (7 months ago)
 - [Manifesto for AI-Augmented Software Craftsmanship](https://thorsten.suckow-homberg.de/blog/manifesto-for-ai-augmented-software-craftsmanship) (8 months ago)
-- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (10 months ago)
+- [From Camera to Clip Space - Derivation of the Projection Matrices](https://thorsten.suckow-homberg.de/blog/from-camera-to-clip-space-derivation-of-the-projection-matrices) (11 months ago)
 - [Model Matrix: Rotation - World vs. Local Origin](https://thorsten.suckow-homberg.de/blog/model-matrix-rotation-world-vs-lLocal-origin) (11 months ago)
 - [Model Matrix: Transformations - A Change-of-Coordinates Perspective](https://thorsten.suckow-homberg.de/blog/model-matrix-transformations-a-change-of-coordinates-perspective) (11 months ago)
 - [Change of Coordinates and Applications to View Matrices](https://thorsten.suckow-homberg.de/blog/change-of-coordinates-and-applications-to-view-matrices) (1 year ago)
