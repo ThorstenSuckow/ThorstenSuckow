@@ -27,8 +27,8 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (today)
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (today)
 - [ThorstenSuckow/helios-gameplay](https://github.com/ThorstenSuckow/helios-gameplay) - Gameplay module for helios, providing reusable high-level gameplay systems. (today)
+- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (today)
 - [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (today)
-- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 day ago)
 - [ThorstenSuckow/helios](https://github.com/ThorstenSuckow/helios) - c&#43;&#43; game engine built from first principles. (1 month ago)
 
 ## Recent Releases
