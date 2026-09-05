@@ -28,7 +28,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems. (today)
 - [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (today)
 - [ThorstenSuckow/helios-gameplay](https://github.com/ThorstenSuckow/helios-gameplay) - Gameplay module for helios, providing reusable high-level gameplay systems. (today)
-- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 day ago)
+- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (today)
 - [ThorstenSuckow/helios-devtools](https://github.com/ThorstenSuckow/helios-devtools) - Central repository for providing dev tools and configurations for the helios project.  (3 days ago)
 
 ## Recent Releases
