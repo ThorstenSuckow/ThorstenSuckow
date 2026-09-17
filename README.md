@@ -20,8 +20,8 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (6 days ago)
-- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (6 days ago)
+- [garagecraft-games/garagecraftgames.github.io](https://github.com/garagecraft-games/garagecraftgames.github.io) - garagecraft.games website (1 week ago)
+- [ThorstenSuckow/thorsten.suckow-homberg.de](https://github.com/ThorstenSuckow/thorsten.suckow-homberg.de) - Personal website with curated articles on programming and software development.  (1 week ago)
 - [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (1 week ago)
 - [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 week ago)
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (1 week ago)
