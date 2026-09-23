@@ -38,7 +38,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Publications & Discourse
 
-- [ECS as a Relational Model](https://thorsten.suckow-homberg.de/blog/ecs-as-a-relational-model) (1 week ago)
+- [ECS as a Relational Model](https://thorsten.suckow-homberg.de/blog/ecs-as-a-relational-model) (2 weeks ago)
 - [helios - Exploratory Development of an ECS-based Game Engine](https://thorsten.suckow-homberg.de/blog/exploratory-development-of-an-ecs-based-game-engine) (5 months ago)
 - [helios - A High-Level Overview of the Game Loop Architecture](https://thorsten.suckow-homberg.de/blog/high-level-overview-of-the-game-loop-architecture) (8 months ago)
 - [Manifesto for AI-Augmented Software Craftsmanship](https://thorsten.suckow-homberg.de/blog/manifesto-for-ai-augmented-software-craftsmanship) (10 months ago)
