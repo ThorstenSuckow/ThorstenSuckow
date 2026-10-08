@@ -20,7 +20,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 day ago)
+- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (today)
 - [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (1 day ago)
 - [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (1 day ago)
 - [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (1 day ago)
