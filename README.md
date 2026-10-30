@@ -20,8 +20,8 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (1 day ago)
-- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (4 days ago)
+- [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (2 days ago)
+- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (5 days ago)
 - [ThorstenSuckow/helios-gameplay](https://github.com/ThorstenSuckow/helios-gameplay) - Gameplay module for helios, providing reusable high-level gameplay systems. (1 week ago)
 - [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems. (1 week ago)
 - [ThorstenSuckow/helios-imgui](https://github.com/ThorstenSuckow/helios-imgui) - ImGui integration layer for the helios C&#43;&#43; engine, providing debug UI, overlays, log widgets, and editor-facing runtime tools. (1 week ago)
