@@ -20,7 +20,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) - Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine. Master’s thesis for the degree of Master of Computer Science (M.C.Sc.) at Trier University of Applied Sciences, Distance Learning Program in Computer Science (today)
+- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences) (today)
 - [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (3 days ago)
 - [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (6 days ago)
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (6 days ago)
@@ -33,6 +33,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent Releases
 
+- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) ([master-thesis](https://github.com/ThorstenSuckow/helios-thesis/releases/tag/master-thesis), today) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences)
 - [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) ([master-thesis](https://github.com/ThorstenSuckow/helios-physics/releases/tag/master-thesis), 1 week ago) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems.
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) ([master-thesis](https://github.com/ThorstenSuckow/helios-opengl/releases/tag/master-thesis), 1 week ago) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling.
 - [ThorstenSuckow/helios-math](https://github.com/ThorstenSuckow/helios-math) ([master-thesis](https://github.com/ThorstenSuckow/helios-math/releases/tag/master-thesis), 1 week ago) - Lightweight C&#43;&#43;23 math module collection for vectors, matrices, transforms, and numeric utilities used by helios.
@@ -42,7 +43,6 @@ Operating at the intersection of mathematics, system architecture, and visual co
 - [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) ([master-thesis](https://github.com/ThorstenSuckow/helios-engine/releases/tag/master-thesis), 1 week ago) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration.
 - [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) ([master-thesis](https://github.com/ThorstenSuckow/helios-ecs/releases/tag/master-thesis), 1 week ago) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components.
 - [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) ([master-thesis](https://github.com/ThorstenSuckow/helios-core/releases/tag/master-thesis), 1 week ago) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona
-- [software-craftsmanship-dev/ai-manifesto](https://github.com/software-craftsmanship-dev/ai-manifesto) ([v1.0.0](https://github.com/software-craftsmanship-dev/ai-manifesto/releases/tag/v1.0.0), 11 months ago) - Principles for AI-Augmented Software Craftsmanship. A guide for using AI as a partner, not a replacement.
 
 ## Publications & Discourse
 
