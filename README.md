@@ -20,11 +20,11 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent contributions
 
-- [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (1 day ago)
-- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (1 day ago)
-- [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (3 days ago)
-- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (4 days ago)
-- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences) (5 days ago)
+- [ThorstenSuckow/helios-engine](https://github.com/ThorstenSuckow/helios-engine) - Modular C&#43;&#43;23 game engine runtime built on helios-ecs, providing worlds, systems, messaging, rendering, and platform integration. (2 days ago)
+- [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling. (2 days ago)
+- [ThorstenSuckow/helios-examples](https://github.com/ThorstenSuckow/helios-examples) - C&#43;&#43;23 example projects demonstrating helios engine modules, rendering, platform integration, and ECS workflows. (4 days ago)
+- [ThorstenSuckow/helios-ecs](https://github.com/ThorstenSuckow/helios-ecs) - C&#43;&#43;23 module-based ECS core with typed entity handles, sparse-set storage, views, and lifecycle components. (5 days ago)
+- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences) (6 days ago)
 - [ThorstenSuckow/helios-imgui](https://github.com/ThorstenSuckow/helios-imgui) - ImGui integration layer for the helios C&#43;&#43; engine, providing debug UI, overlays, log widgets, and editor-facing runtime tools. (2 weeks ago)
 - [ThorstenSuckow/helios-glfw](https://github.com/ThorstenSuckow/helios-glfw) - GLFW platform backend for helios, handling window creation, events, resize commands, contexts, and buffer swapping. (2 weeks ago)
 - [ThorstenSuckow/helios-core](https://github.com/ThorstenSuckow/helios-core) - Reusable low-level infrastructure for cross cuttin concerns in  helios, including containers, execution utilities, logging, and shared core functiona (2 weeks ago)
@@ -33,7 +33,7 @@ Operating at the intersection of mathematics, system architecture, and visual co
 
 ## Recent Releases
 
-- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) ([master-thesis](https://github.com/ThorstenSuckow/helios-thesis/releases/tag/master-thesis), 5 days ago) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences)
+- [ThorstenSuckow/helios-thesis](https://github.com/ThorstenSuckow/helios-thesis) ([master-thesis](https://github.com/ThorstenSuckow/helios-thesis/releases/tag/master-thesis), 6 days ago) - Implementation and measurements for &#34;Domänenspezifische Handles zur statischen Partitionierung und konfliktarmen Ausführung einer ECS-basierten C&#43;&#43;-Game-Engine&#34; (Master’s thesis, Trier University of Applied Sciences)
 - [ThorstenSuckow/helios-physics](https://github.com/ThorstenSuckow/helios-physics) ([master-thesis](https://github.com/ThorstenSuckow/helios-physics/releases/tag/master-thesis), 2 weeks ago) - Physics module for the helios engine, focused on gameplay-oriented simulation components and systems.
 - [ThorstenSuckow/helios-opengl](https://github.com/ThorstenSuckow/helios-opengl) ([master-thesis](https://github.com/ThorstenSuckow/helios-opengl/releases/tag/master-thesis), 2 weeks ago) - OpenGL backend modules for helios, including render passes, shader integration, framebuffers, and GPU resource handling.
 - [ThorstenSuckow/helios-math](https://github.com/ThorstenSuckow/helios-math) ([master-thesis](https://github.com/ThorstenSuckow/helios-math/releases/tag/master-thesis), 2 weeks ago) - Lightweight C&#43;&#43;23 math module collection for vectors, matrices, transforms, and numeric utilities used by helios.
